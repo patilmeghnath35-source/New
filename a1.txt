@@ -1,0 +1,5 @@
+hello 
+git practice 
+going on
+a="jash"
+printn(a)
